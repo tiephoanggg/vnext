@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "jvemind2k10506",
+        "database": "db_class",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+}
